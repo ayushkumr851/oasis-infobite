@@ -1,1 +1,1 @@
-# oasis-infobite task:2 web development and design
+Task 2:-We need to create a personal portfolio with the basic skills in CSS and HTML. In a personal portfolio, I got to show a wide range of samples and skills and add my resume. We can add an image ,Background ,header, We can introduce ourself; below that, we can add contact information.
